@@ -61,9 +61,13 @@ I followed the documentation, explored the features, and learned how these tools
 
 ## Reflection
 
-This project challenged me to learn several new tools independently. It also improved my understanding of GitHub, Git workflows, and AI-assisted development tools. I enjoyed the process of researching solutions and applying them step by step.
+This project challenged me to learn several new tools independently. It also improved my understanding of GitHub, Git workflows, and AI-assisted development tools.
+
+What I found most valuable was learning how to solve unfamiliar problems step by step. Since I did not have prior experience using Cursor or working extensively with Git repositories, I needed to research documentation, watch tutorials, and test different approaches until I found a solution.
+
+This experience reinforced the importance of adaptability and continuous learning, especially when working with new technologies. I believe these skills are valuable not only in technical environments but also in business development and problem-solving roles where learning quickly is often essential.
 
 Created by:
 
-Tia Pratiwi  
+Tia Pratiwi
 Final-Year Student | IPB University
